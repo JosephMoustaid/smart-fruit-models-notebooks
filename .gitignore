@@ -1,4 +1,4 @@
-# Dataset directories
+# Dataset directories only - keep the models!
 Fruits-360 dataset/
 Fruit Ripeness: Unripe, Ripe, and Rotten/
 FRUITS DATASET FOR FRUIT DISEASE CLASSIFICATION/
@@ -8,11 +8,6 @@ FRUITS DATASET FOR FRUIT DISEASE CLASSIFICATION/
 
 # Generated dataset splits
 disease_dataset_split/
-
-# Model files
-*.h5
-*.tflite
-*_labels.txt
 
 # Python
 __pycache__/
